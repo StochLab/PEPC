@@ -1,1 +1,1 @@
-### Neural Predictive Control using Lagrangian Neural Networks for Quadruped Locomotion
+### PEPC: Data-Driven Physics Embedded Dynamics with Predictive Control and Reinforcement Learning for Quadrupeds
